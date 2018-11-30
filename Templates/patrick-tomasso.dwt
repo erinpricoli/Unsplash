@@ -1,5 +1,6 @@
 <!doctype html>
-<html lang="en"><!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
+<html lang="en">
+  <!-- InstanceBegin template="/Templates/master-template.dwt" codeOutsideHTMLIsLocked="false" -->
   <head>
   <!-- Required meta tags -->
   <meta charset="utf-8">
@@ -23,7 +24,7 @@
         <ol class="breadcrumb">
           <li class="breadcrumb-item active"><a href="../index.html">Home</a></li>
           <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active"> Andre Benz  </li>
+          <li class="breadcrumb-item active"> Patrick Tomasso </li>
           <li class="breadcrumb-item active"> Example Photo </li>
           <!-- TemplateEndEditable -->
         </ol>
@@ -32,19 +33,18 @@
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
             <img class="card-img-top" 
-				 src="https://images.unsplash.com/profile-1513183198594-66e21a4cfe3d?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Andre Benz">
+				 src="https://images.unsplash.com/profile-fb-1444241666-4923a57f944a.jpg?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Patrick Tomasso">
             <div class="card-body">
-              <h2> Andre Benz </h2>
-              <p> Founder of Trap Nation, amateur photographer.
- Canon advocate.</p>
+              <h2> Patrick Tomasso </h2>
+              <p> If you like my photos and want to help me create more - click my Ko-Fi link above! Feel free to shoot me an e-mail to work together or chat at pt@patricktomasso.com</p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"> <a href="https://www.instagram.com/benz/?hl=en" target="_blank"> Instagram</a></li>
+              <li class="list-group-item"> <a href="ko-fi.com/impatrickt" target="_blank"> Ko-fi</a></li>
             </ul>
           </div>
         </div>
         <div class="col-12 col sm-6 col-md-9">
-          <!-- TemplateBeginEditable name="andre-benz-content" -->
+          <!-- TemplateBeginEditable name="patrick-tomasso-content" -->
           <p> This is where content goes</p>
           <!-- TemplateEndEditable -->
         </div>
@@ -55,7 +55,7 @@
           Made with [love] and [coffee] by Erin Pricoli
         </div>
         <div class="col-12 col-sm-6">
-          Connect with me: <a href="https://www.linkedin.com/in/erin-pricoli-348948135/" target="blank"> LinkedIn</a> <a href="https://www.instagram.com/erinpricoli/?hl=en" target="blank"> Instagram</a> <a href="https://github.com/erinpricoli"> Github</a> <a href="https://twitter.com/elpricoli" target="blank"> Twitter</a> <a href="https://www.facebook.com/erin.pricoli?ref=bookmarks" target="blank"> Facebook</a> 
+          Connect with me: <a href="https://www.linkedin.com/in/erin-pricoli-348948135/" target="blank"> LinkedIn</a> <a href="https://www.instagram.com/erinpricoli/?hl=en" target="blank"> Instagram</a> <a href="https://github.com/erinpricoli"> Github</a> <a href="https://twitter.com/elpricoli" target="blank"> Twitter</a> <a href="https://www.facebook.com/erin.pricoli?ref=bookmarks" target="blank"> Facebook</a>
         </div>
       </div>
     </div>
@@ -64,4 +64,5 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script> 
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
   </body>
-<!-- InstanceEnd --></html>
+  <!-- InstanceEnd -->
+</html>
