@@ -8,7 +8,7 @@
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <!-- InstanceBeginEditable name="doctitle" -->
-  <title>Unsplash - Sarah X Sharp</title>
+  <title>Unsplash - Andre Benz</title>
   <!-- InstanceEndEditable -->
   <!-- InstanceBeginEditable name="head" -->
   <!-- TemplateBeginEditable name="head" -->
@@ -23,7 +23,7 @@
         <ol class="breadcrumb">
           <li class="breadcrumb-item active"><a href="../index.html">Home</a></li>
           <!-- TemplateBeginEditable name="breadcrumb-trail" -->
-          <li class="breadcrumb-item active"> Sarah x Sharp  </li>
+          <li class="breadcrumb-item active"> Andre Benz  </li>
           <li class="breadcrumb-item active"> Example Photo </li>
           <!-- TemplateEndEditable -->
         </ol>
@@ -32,23 +32,19 @@
         <div class="col-12 col-sm-6 col-md-3">
           <div class="card">
             <img class="card-img-top" 
-				 src="https://images.unsplash.com/profile-fb-1532565127-eabac6242347.jpg?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Sarah x Sharp ">
+				 src="https://images.unsplash.com/profile-1513183198594-66e21a4cfe3d?auto=format&fit=crop&w=400&h=400&q=60&crop=faces" alt="Sarah x Sharp ">
             <div class="card-body">
-              <h2> Sarah X Sharp </h2>
-              <p> @simplysgphotography ✗
- born n raised country girl ✗
- sunsets & coffee shops ✗
- living to glorify my creator and savior, Jesus Christ</p>
+              <h2> Andre Benz </h2>
+              <p> Founder of Trap Nation, amateur photographer.
+ Canon advocate.</p>
             </div>
             <ul class="list-group list-group-flush">
-              <li class="list-group-item"> <a href="https://simplysg.wixsite.com/simplysg/photo-albums?utm_medium=referral&utm_source=unsplash" target="_blank"> Website</a></li>
-              <li class="list-group-item"> <a href="https://www.instagram.com/sarahgracesharp/" target="_blank"> Instagram</a></li>
-              <li class="list-group-item"> <a href="https://www.pinterest.com/simplysg/" target="_blank"> Pinterest </a></li>
+              <li class="list-group-item"> <a href="https://www.instagram.com/benz/?hl=en" target="_blank"> Instagram</a></li>
             </ul>
           </div>
         </div>
         <div class="col-12 col sm-6 col-md-9">
-          <!-- TemplateBeginEditable name="sarah-x-sharp-content" -->
+          <!-- TemplateBeginEditable name="andre-benz-content" -->
           <p> This is where content goes</p>
           <!-- TemplateEndEditable -->
         </div>
