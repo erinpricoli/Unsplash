@@ -1,0 +1,63 @@
+/*
+
+
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    background-color: #EEEEEE;
+}
+h1, h2, h3 {
+    font-family: 'Wire One', sans-serif;
+}
+a {
+    color: #25333A;
+}
+a:hover {
+    color: #409aa9;
+    text-decoration: none;
+}
+.btn-primary {
+    background-color: #25333A;
+    color: #FFFFFF;
+    font-weight: 100;
+    border-color: #25333A;
+}
+.btn-primary:hover {
+    background-color: #409AA9;
+    border-color: #409AA9;
+}
+.unsplash-header {
+    background-color: #25333a;
+    color: #ffffff;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.unsplash-header h1 small {
+    font-size: .35em;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+.unsplash-header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.unsplash-header a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.unsplash-footer {
+    background-color: #25333A;
+    border-top: 5px solid #409AA9;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-top: 2em;
+	color: #ffffff;
+}
+.unsplash-footer a {
+    color: #ffffff;
+    font-size: 2em;
+    margin-left: .25em;
+}
